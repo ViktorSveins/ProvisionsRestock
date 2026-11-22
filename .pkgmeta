@@ -1,0 +1,9 @@
+package-as: ProvisionsRestock
+ignore:
+  - .github
+  - build
+  - build.ps1
+  - curseforge-icon.png
+  - DevProfiles.lua
+  - README.md
+  - tests
