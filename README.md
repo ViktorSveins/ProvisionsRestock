@@ -1,4 +1,5 @@
 # Provisions Restock
+[![CurseForge](https://cf.way2muchnoise.eu/1508583.svg?badge_style=for_the_badge)](https://www.curseforge.com/wow/addons/provisions-restock)
 
 Restock class reagents, food, water, and ammunition at vendors in **World of Warcraft: Forever**. Provisions Restock docks beside the merchant and starts folded when the vendor has no matching supplies. Click **Restock** beside **Buyback** to open it, or click the selected **Restock** tab to fold it again.
 
